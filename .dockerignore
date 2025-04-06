@@ -1,0 +1,7 @@
+__pycache__
+*.tar.gz
+.git
+.gitignore
+venv
+archive
+config.py
